@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba del modeluo2 de prepcourse de henry
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde githib a mi computadora.
